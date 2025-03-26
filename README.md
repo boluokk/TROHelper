@@ -12,4 +12,10 @@
 
 ### 助手截图(持续开发维护中..)
 
-<p><img src="./media/收费版 (1).png"></p>
+<p><img src="./media/pic (1).png"></p>
+<p><img src="./media/pic (2).png"></p>
+<p><img src="./media/pic (3).png"></p>
+<p><img src="./media/pic (4).png"></p>
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114222373538207&bvid=BV197oxY1E8E&cid=29061808310&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
