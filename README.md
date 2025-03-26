@@ -5,7 +5,7 @@
 
 <div>
 <p>一款多功能覆盖的刀剑乱舞脚本助手</a> </p>
-<p style="color: red;">当前TROHelper(刀剑乱舞)助手免费使用</p>
+<p style="color: red;">当前TROHelper(刀剑乱舞)助手免费使用(<a href="https://www.bilibili.com/video/BV197oxY1E8E/?spm_id_from=333.999.0.0&vd_source=0a11f3e57dadf1233d83ab558c971e40">视频查看</a>))</p>
 </div>
 
 <h1></h1>
@@ -16,8 +16,3 @@
 <p><img src="./media/pic (2).png"></p>
 <p><img src="./media/pic (3).png"></p>
 <p><img src="./media/pic (4).png"></p>
-
-<div>
-  <iframe width="100%" height="500" src="https://www.bilibili.com/video/BV197oxY1E8E/?spm_id_from=333.999.0.0&vd_source=0a11f3e57dadf1233d83ab558c971e40" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
